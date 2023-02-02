@@ -1,1 +1,1 @@
-Calculadora hecha basica hecha con HTML,CSS y JS
+Desafio de calculadora basica hecha en 1 dia con HTML, CSS y JS
